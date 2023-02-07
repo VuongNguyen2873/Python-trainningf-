@@ -1,0 +1,6 @@
+print ('Số ngày: ', 27*365)
+print ('Số Tuần: ', 365*{}//7)
+print ('Số Tháng: ', 12*27)
+print ('Số Giờ: ', 27*365*24)
+print ('Số Giây: ', 27*365*24*60*60)
+print ('Số Phút: ', 27*365*24*60)
